@@ -1,4 +1,5 @@
-# Lytscript
-An html5 alternative that compiles to-from vanilla html5
+# Lytscript Editor
+Web-based IDE
+https://lycelia.com/apps/text
 
-Browser editor currently nearing Alpha release. Updates pending.
+Uses unique compression and representation of code to speed up development and simplify comprehension. Numerous settings options to customize to personal preference. Also allows rich text editing and Ace editor alternative. Image editing options may be coming soon.
